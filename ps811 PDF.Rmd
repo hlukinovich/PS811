@@ -1,0 +1,69 @@
+---
+title: "PS811"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Hannah Lukinovich
+
+110 North Hall 
+1050 Bascom Hall
+Madison, WI 53706
+
+lukinovich@wisc.edu 
+
+Mobile: 985-590-9241
+
+BA International Studies, Louisiana State University 2018
+
+BA French, Louisiana State University 2018
+
+
+Publication: Trade-Induced Job Loss and Support for Free
+Trade, Social Sciences Quarterly, September 2020
+
+Research Assistant: 2017-2018, James Garand, data analysis and collection on Political Science Departments' publication output
+
+2018 Midwest Political Science Conference, Chicago, IL: Trade-Induced Job Loss and Support for Free Trade
+
+
+Awards
+
+French Department Award: 2014, 2017
+
+Funding for undergraduate conference attendance: 2017
+
+Fellowship: University of Wisconsin--Madison 2021
+
+
+Volunteer/service experience 
+
+2014: service day at local East Baton Rouge public schools, painting and various support prior to start of fall semester; assisted local victim of flooding in Baton Rouge, gutting her house and removing debris 
+
+2012-2018: Monthly child monitor during church service
+
+2018-2020: Monthly support of local animal shelter, socializing cats and dogs, working fundraising events
+
+
+Work experience
+
+Sales, Best Buy 2018-2021
+
+Research Assistant, Louisiana State University
+
+
+Language
+
+Proficient: French
+
+
+References
+
+James Garand, Professor Louisiana State University
+Deborah Goldgaber, Louisiana State University
